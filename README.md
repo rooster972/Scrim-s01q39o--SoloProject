@@ -26,3 +26,4 @@ Happy Coding!
 - [Color API Dos - schemes] (https://www.thecolorapi.com/docs#schemes)
 - [Figma Project] (https://www.figma.com/design/hMgnJ6Zt1PADPk7nArZOTU/Color-Scheme-Generator--Copy-?node-id=0-1&p=f&t=WW9zOUFTTrNZZvXf-0)
 - [GitHub project] (https://github.com/rooster972/Scrim-s01q39o--SoloProject.git)
+- [Netlify Url] (https://irooster972-color-scheme-generator.netlify.app/)
